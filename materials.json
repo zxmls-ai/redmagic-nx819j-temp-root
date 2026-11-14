@@ -1,0 +1,68 @@
+{
+  "schema": 1,
+  "tested_date": "2026-11-14",
+  "device": {
+    "model": "NX819J",
+    "kernel": "6.18.21-android17-5-g11fe19e75a18-ab16017504-4k",
+    "incremental": "20261010.160642"
+  },
+  "source": {
+    "author": "卒迹v",
+    "video": "https://www.bilibili.com/video/BV1KFxK6ZEZF",
+    "download": "https://wwbne.lanzoue.com/iICRi4dnrlsh",
+    "password": "6gef",
+    "archive_name": "临时root.7z",
+    "archive_sha256": "518cf77c4bbeecd58f13f576bf46069089c61003a90eb33708e5cd41598d64ff"
+  },
+  "apk": {
+    "file_name": "越狱助手_3.0.0.Apk",
+    "sha256": "4121f71b30589baf81b2aef96859b91034af4b1bc47f283ab4a981041b2bd694"
+  },
+  "manager": {
+    "package": "me.weishu.kernelsu",
+    "version": "v3.3.1 (32680-5)",
+    "sha256": "b4a059ace71de2fa65cc7f12b1c58d55fc23ab25e057ee4230ce779742abe450"
+  },
+  "assets": {
+    "forker": {
+      "sha256": "82394673557b446983d4f64ca3c00b3970f5cd2e8fead3ca5ad3141c93917c59",
+      "size": 782392
+    },
+    "prep_solve": {
+      "sha256": "9c983ccfa7d4f79c4a67a61a11654b7b13e97a41ecd15e026fbf77fc0b21fede",
+      "size": 2153208
+    },
+    "prep_patch": {
+      "sha256": "e08d92241ed290189a5dc3454929babbdf5f4f6e79a050c30cc9a55de22e4d8e",
+      "size": 2141280
+    },
+    "syms.txt": {
+      "sha256": "fb0146ae146b56035f089e010b31497097014fdc1f55369dfad6245e4cfcc857",
+      "size": 6680013
+    },
+    "run.sh": {
+      "sha256": "d8ceafd0977efd88877b506b0ce293c73dcf88588a14ae53623bbbeaab0b005d",
+      "size": 4046
+    },
+    "ksu-base-kernelsu.ko": {
+      "sha256": "9d4d5cb283be1eeacda08ee43c7775704d9eec5b8f9ae714582f420b85579a34",
+      "size": 375641
+    },
+    "ksud_kernelsu": {
+      "sha256": "049491e2b4cc0a6c913d3920cb90b8c94c9e8ca96c0ee92818293304973bfb1b",
+      "size": 6402736
+    },
+    "t64560_loader2": {
+      "sha256": "07cf93f3db391034261cefa38d2a59c72eb084751ba09631dceb243635af7f87",
+      "size": 2209576
+    },
+    "t64560_v36": {
+      "sha256": "cae668e63ca18b469640e802f922701a47553f3f3445be50ca015075e79639a2",
+      "size": 935736
+    },
+    "t64560_w2": {
+      "sha256": "5cbc22790f6c045b33c9a82945101a9d48d5bdda4ff18e0a59fd46701b80a69c",
+      "size": 1685136
+    }
+  }
+}

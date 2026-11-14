@@ -1,0 +1,13 @@
+/vendor/
+/logs/
+/dist/
+/local-*
+__pycache__/
+*.pyc
+*.apk
+*.Apk
+*.7z
+*.ko
+*.elf
+*.bin
+.venv/
